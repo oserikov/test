@@ -26,7 +26,7 @@
 │       ├── f1.txt
 │       ├── f2.txt
 │       └── f3.txt
-└── tree_structure.md
+└── README.md
 
 6 directories, 19 files
 ```
